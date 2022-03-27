@@ -90,4 +90,4 @@ def render_page_content(cities, main_variable):
 
 #========================================Server=====================================
 if __name__ == "__main__":
-    app.run_server(port=8051, debug=True)
+    app.run_server(port=8050, debug=True)
